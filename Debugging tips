@@ -1,0 +1,7 @@
+	$DEBUG  = 1;
+
+	if ($DEBUG)
+	{
+
+	echo "Adding this to every var/function ";
+	}
